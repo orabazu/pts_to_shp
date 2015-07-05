@@ -11,7 +11,7 @@ GDAL/OGR python bindings
 GDAL 1.11.2 release
 
 ###Data
-- DATACRS is your base coordinate system's EPSG code for referance layer
+- DATACRS is your base coordinate system's EPSG code for base layer (left side of .pts)
 more is available on http://spatialreference.org/ref/
 - EPSG selected based on reference points from tutorial http://www.exelisvis.com/docs/RegistrationImageToMap.html
 
